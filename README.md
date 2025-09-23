@@ -9,7 +9,7 @@ Conector a Base de Datos: mysql-connector-python (conexión oficial a MySQL)
 Base de Datos: MySQL
 IDE Recomendado: PyCharm, VS Code
 
-Instrucciones de Instalación y Uso (Resumido)
+Instrucciones de Instalación y Uso 
 1. Requisitos Previos
 Tener Python instalado.
 Tener MySQL corriendo en tu máquina (localhost:3306)
@@ -19,7 +19,6 @@ Tener la base de datos TiendaElectronica creada y poblada.
 2.  Instalación de Dependencias
 Ejecuta en tu terminal:
 pip install mysql-connector-python tkcalendar
-
 
 Funciones procedimientos almacenados
 -Productos
