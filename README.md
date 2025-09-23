@@ -23,38 +23,43 @@ pip install mysql-connector-python tkcalendar
 
 Funciones procedimientos almacenados
 -Productos
-sp_InsertProducto
-sp_UpdateProducto
-sp_DeleteProducto
+sp_InsertProducto,
+sp_UpdateProducto,
+sp_DeleteProducto,
+
 Gestiona productos (nombre, categoría, precio, stock).
 
 -Clientes
-sp_InsertCliente
-sp_UpdateCliente
-sp_DeleteCliente
+sp_InsertCliente,
+sp_UpdateCliente,
+sp_DeleteCliente,
+
 Gestiona clientes (nombre, email, teléfono, ciudad)
 
 -Empleados
-sp_InsertEmpleado
-sp_UpdateEmpleado
-sp_DeleteEmpleado
+sp_InsertEmpleado,
+sp_UpdateEmpleado,
+sp_DeleteEmpleado,
+
 Gestiona empleados (nombre, apellido, cargo, fecha de contratación).
 
 -Ordenes
-sp_InsertOrden
-sp_UpdateOrden
-sp_DeleteOrden
+sp_InsertOrden,
+sp_UpdateOrden,
+sp_DeleteOrden,
+
 Gestiona órdenes (cliente, empleado, fecha, estado).
 
 -DetallesOrden
-sp_InsertDetalleOrden
-sp_UpdateDetalleOrden
-sp_DeleteDetalleOrden
-Gestiona los productos dentro de una orden (cantidad, precio unitario).
+sp_InsertDetalleOrden,
+sp_UpdateDetalleOrden,
+sp_DeleteDetalleOrden,
+
 Gestiona órdenes (cliente, empleado, fecha, estado).
 
 -DetallesOrden
-sp_InsertDetalleOrden
-sp_UpdateDetalleOrden
-sp_DeleteDetalleOrden
+sp_InsertDetalleOrden,
+sp_UpdateDetalleOrden,
+sp_DeleteDetalleOrden,
+
 Gestiona los productos dentro de una orden (cantidad, precio unitario).
