@@ -6,7 +6,7 @@ Lenguaje: Python 3.x
 Interfaz Gráfica: tkinter y ttk (biblioteca estándar de Python)
 Selector de Fechas: tkcalendar (para elegir fechas de forma visual)
 Conector a Base de Datos: mysql-connector-python (conexión oficial a MySQL)
-Base de Datos: MySQL 8.0+
+Base de Datos: MySQL
 IDE Recomendado: PyCharm, VS Code
 
 Instrucciones de Instalación y Uso (Resumido)
